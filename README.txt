@@ -1,0 +1,1 @@
+Le projet nécessite l'inclusion du StarterContent
